@@ -1,0 +1,1 @@
+﻿insert into Users values('Manoj Pant', 'manoj123','2024-09-25');
