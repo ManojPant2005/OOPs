@@ -8,6 +8,7 @@ public class Program
     {
         checkAge(8);
         AddTwoNumber(12, 50);
+
     }
 
     public void checkAge(int age)

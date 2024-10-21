@@ -11,6 +11,8 @@
         static void Main(string[] args)
         {
             Program program = new Program();
+            StartTwo start = new StartTwo();
+            
             program.checkAge(12);
 
             program.Description = "Hie we are learning Inheritance in C#";
